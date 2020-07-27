@@ -1,0 +1,7 @@
+{
+  "name": "fun-with-travis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Richard Hofmänner <hello@terillos.dev>",
+  "license": "MIT"
+}
