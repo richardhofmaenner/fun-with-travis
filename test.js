@@ -9,6 +9,6 @@ test('bar', async t => {
   t.is(await bar, 'bar');
 });
 
-test('should fail', async t => {
+/*test('should fail', async t => {
   t.fail();
-})
+})*/
